@@ -1,0 +1,146 @@
+http://www.javascriptpoint.com/nodejs-postgresql-tutorial-example/
+
+postgresql commands
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04
+
+To install postgres
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04
+
+sudo -u postgres psql
+
+postgres=# \q
+
+To install docker
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
+
+Don’t install Postgres. Docker pull Postgres
+https://hackernoon.com/dont-install-postgres-docker-pull-postgres-bee20e200198
+
+docker run --name pg-docker -e POSTGRES_PASSWORD=docker -d -p 5432:5432 -v $HOME/docker/volumes/postgres:/var/lib/postgresql/data postgres
+
+DOCKER:
+//Shows all the containers
+sudo docker ps -a
+password: docker
+
+// Start the container in docker
+sudo docker start 140e1efe38c8
+
+//Stop container in docker
+sudo docker stop 140e1efe38c8
+
+
+// To start postgres in container
+psql -h localhost -U postgres
+-------------------------------------------------------
+To stop postgresql(global)
+sudo /etc/init.d/postgresql stop
+-------------------------------------------------------
+postgres:
+
+CREATE DATABASE carSales;
+=>Enter command \l to get a list of all databases
+=> \d+ to get to get table info
+
+=>To connect to a Database use the command
+
+\c guru99
+-------------------------------------------------------
+1.what does sudo apt update do
+
+------------------------
+CREATE TABLE table_name (
+    column_name1 col_type (field_length) column_constraints,
+    column_name2 col_type (field_length),
+    column_name3 col_type (field_length)
+);
+
+CREATE TABLE cardetails(
+carId serial PRIMARY KEY,
+carmake  varchar(50) NOT NULL,
+carmodel varchar(50) NOT NULL,
+carmodelyear smallint NOT NULL
+);
+
+COPY cardetails FROM '/home/vamsi04/MountBlueTraining/test/carDetails.csv' DELIMITER ',' CSV;
+
+location varchar(25) check (location in ('north', 'south', 'west', 'east', 'northeast', 'southeast', '
+southwest', 'northwest'))
+
+CREATE TABLE customerdetails(
+    personid numeric PRIMARY KEY,
+    email varchar(50) NOT NULL,
+    gender varchar(20) NOT NULL,
+    name varchar(50) NOT NULL,
+    phonenum varchar(20) NOT NULL,
+    carId serial REFERENCES cardetails(carid),
+    country varchar(20) check(country in ('China','United States','Nepal','Thailand','South Africa','New Zealand','United Kingdom','Bangladesh','Australia','India')),
+    jobtitle varchar(50) NOT NULL
+);
+
+COPY customerdetails FROM '/home/vamsi04/MountBlueTraining/test/customerDetails.csv' DELIMITER ',' CSV;
+
+ALTER TABLE assets ALTER COLUMN name TYPE VARCHAR;
+ALTER TABLE customerdetails ALTER COLUMN personid TYPE numeric;
+ALTER TABLE customerdetails ALTER COLUMN jobtitle TYPE varchar(50);
+
+--------------------------------------------------------
+CREATE TABLE userdetails(
+    userid serial PRIMARY KEY,
+    email varchar(50) NOT NULL UNIQUE,
+    password varchar(500) NOT NULL
+);
+
+INSERT INTO userdetails (email,password) VALUES ('vamsi@gmail.com','password');
+
+--------------------------------------------------------
+\conninfo
+connection info
+
+Nodemon:(To stop from reseting server)
+
+npm run dev
+
+Instead of res.send we can use:
+res.json to send json Data.Data
+res.render where we can use handlebar/ejs as template engine to render html templates on server.
+middleware has access to req,res and calls next function in stack.
+app.use to init the middleware function
+
+When ever reques is made. middleware func runs.
+
+SQL rEF:
+http://www.postgresqltutorial.com/postgresql-unique-constraint/
+https://stackoverflow.com/questions/4448340/postgresql-duplicate-key-violates-unique-constraint
+on del cascade:
+http://www.postgresqltutorial.com/postgresql-foreign-key/
+For exports
+https://stackoverflow.com/questions/48534555/nodemon-clean-exit-waiting-for-changes-before-restart-during-setup
+
+Joi:
+https://www.npmjs.com/package/@hapi/joi
+https://hapi.dev/family/joi/?v=16.1.5
+
+ByCrypt.js
+https://github.com/kelektiv/node.bcrypt.js
+
+JWT
+https://github.com/auth0/node-jsonwebtoken
+--------------------------
+**Futre Modifications**
+
+Try to minimize all the require statements.
+
+Verify Err Handling using middleware
+
+catch in user Routes
+------------------------------
+{
+	"email":"v4@y.com",
+	"password":"hidden"
+}
+
+{
+    "message": "Auth Succesful",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InY0QHkuY29tIiwidXNlcklkIjoxMiwiaWF0IjoxNTcwMTcyNzYyLCJleHAiOjE1NzAxNzYzNjJ9.B5R9aNkmkIJLX_3pV8OyaRdzORYLL-6LDS_LYcGWpMM"
+}

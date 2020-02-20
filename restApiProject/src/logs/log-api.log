@@ -1,0 +1,362 @@
+[2019-10-01T12:56:58.210Z] /api/cars GET
+[2019-10-01T12:56:59.242Z] /favicon.ico GET
+[2019-10-01T12:57:11.204Z] /api/cars GET
+[2019-10-01T12:58:13.337Z] /api/cars GET
+[2019-10-01T12:58:28.837Z] /api/customers/5 PUT
+[2019-10-01T12:58:33.977Z] /api/customers POST
+[2019-10-03T05:37:46.683Z] /api/cars POST
+[2019-10-03T05:41:01.453Z] /api/cars POST
+[2019-10-03T05:45:11.354Z] /api/cars POST
+[2019-10-03T05:53:37.044Z] /api/cars POST
+[2019-10-03T05:53:58.094Z] /api/cars POST
+[2019-10-03T05:57:49.076Z] /api/cars POST
+[2019-10-03T05:58:03.920Z] /api/cars POST
+[2019-10-03T05:58:47.831Z] /api/cars POST
+[2019-10-03T05:59:32.582Z] /api/cars POST
+[2019-10-03T06:03:26.848Z] /api/cars POST
+[2019-10-03T06:03:39.043Z] /api/cars POST
+[2019-10-03T06:04:08.928Z] /api/cars POST
+[2019-10-03T06:04:16.225Z] /api/cars POST
+[2019-10-03T06:04:38.186Z] /api/cars POST
+[2019-10-03T06:05:14.403Z] /api/cars POST
+[2019-10-03T06:12:24.624Z] /api/cars POST
+[2019-10-03T06:19:33.712Z] /api/cars POST
+[2019-10-03T06:19:47.891Z] /api/cars POST
+[2019-10-03T06:19:58.655Z] /api/cars POST
+[2019-10-03T06:20:04.372Z] /api/cars POST
+[2019-10-03T06:20:13.390Z] /api/cars POST
+[2019-10-03T06:57:26.502Z] /api/customers POST
+[2019-10-03T07:00:02.086Z] /api/customers POST
+[2019-10-03T07:17:21.374Z] /api/customers POST
+[2019-10-03T07:17:48.798Z] /api/customers POST
+[2019-10-03T07:17:58.572Z] /api/customers POST
+[2019-10-03T07:18:09.441Z] /api/customers POST
+[2019-10-03T07:18:20.384Z] /api/customers POST
+[2019-10-03T07:18:26.328Z] /api/customers POST
+[2019-10-03T07:19:25.653Z] /api/customers POST
+[2019-10-03T07:19:31.609Z] /api/customers POST
+[2019-10-03T07:19:35.786Z] /api/customers POST
+[2019-10-03T07:54:55.834Z] /api/customers POST
+[2019-10-03T07:55:03.436Z] /api/customers POST
+[2019-10-03T07:55:11.617Z] /api/customers POST
+[2019-10-03T07:55:21.297Z] /api/customers POST
+[2019-10-03T07:55:38.432Z] /api/customers POST
+[2019-10-03T07:56:35.607Z] /api/customers POST
+[2019-10-03T07:58:35.556Z] /api/customers POST
+[2019-10-03T07:59:43.677Z] /api/customers POST
+[2019-10-03T08:00:00.809Z] /api/customers POST
+[2019-10-03T08:00:14.627Z] /api/customers POST
+[2019-10-03T08:00:25.786Z] /api/customers POST
+[2019-10-03T08:00:38.872Z] /api/customers POST
+[2019-10-03T08:00:46.121Z] /api/customers POST
+[2019-10-03T08:01:05.493Z] /api/customers POST
+[2019-10-03T08:01:18.952Z] /api/customers POST
+[2019-10-03T08:02:09.772Z] /api/customers POST
+[2019-10-03T08:08:11.289Z] /api/customers POST
+[2019-10-03T08:08:24.481Z] /api/customers POST
+[2019-10-03T08:08:35.333Z] /api/customers POST
+[2019-10-03T08:08:55.867Z] /api/customers POST
+[2019-10-03T08:08:59.526Z] /api/customers POST
+[2019-10-03T08:09:07.212Z] /api/customers POST
+[2019-10-03T08:09:18.415Z] /api/customers POST
+[2019-10-03T08:38:58.886Z] /api/cars POST
+[2019-10-03T08:39:10.568Z] /api/cars POST
+[2019-10-03T08:39:19.708Z] /api/cars POST
+[2019-10-03T08:39:26.376Z] /api/cars POST
+[2019-10-03T08:39:33.846Z] /api/cars POST
+[2019-10-03T08:39:42.537Z] /api/cars/60 PUT
+[2019-10-03T08:39:49.800Z] /api/cars/60 PUT
+[2019-10-03T08:39:56.772Z] /api/cars/60 PUT
+[2019-10-03T08:40:04.481Z] /api/cars/60 PUT
+[2019-10-03T08:45:04.737Z] /api/customers POST
+[2019-10-03T08:45:16.510Z] /api/customers POST
+[2019-10-03T08:45:22.620Z] /api/customers POST
+[2019-10-03T08:45:26.950Z] /api/customers POST
+[2019-10-03T08:45:32.429Z] /api/customers POST
+[2019-10-03T08:45:43.273Z] /api/customers POST
+[2019-10-03T08:45:48.103Z] /api/customers POST
+[2019-10-03T08:46:01.393Z] /api/customers POST
+[2019-10-03T08:46:15.984Z] /api/customers POST
+[2019-10-03T08:46:18.544Z] /api/customers POST
+[2019-10-03T08:46:26.098Z] /api/customers POST
+[2019-10-03T08:46:39.122Z] /api/customers POST
+[2019-10-03T08:47:08.570Z] /api/customers/5 PUT
+[2019-10-03T08:47:16.983Z] /api/customers/5 PUT
+[2019-10-03T08:47:23.984Z] /api/customers/5 PUT
+[2019-10-03T08:47:37.294Z] /api/customers/5 PUT
+[2019-10-03T08:47:40.709Z] /api/customers/5 PUT
+[2019-10-03T08:47:45.567Z] /api/customers/5 PUT
+[2019-10-03T08:47:55.901Z] /api/customers/5 PUT
+[2019-10-03T09:10:11.999Z] /api/cars POST
+[2019-10-03T09:10:39.334Z] /api/cars POST
+[2019-10-03T09:10:58.267Z] /api/cars POST
+[2019-10-03T09:11:30.679Z] /api/cars POST
+[2019-10-03T09:12:14.533Z] /api/cars/60 PUT
+[2019-10-03T09:12:58.785Z] /api/cars/62 PUT
+[2019-10-03T09:13:16.741Z] /api/cars/62 PUT
+[2019-10-03T09:13:27.006Z] /api/cars/60 PUT
+[2019-10-03T09:13:34.408Z] /api/cars/60 PUT
+[2019-10-03T09:13:45.027Z] /api/cars/60 PUT
+[2019-10-03T09:13:50.216Z] /api/cars/60 PUT
+[2019-10-03T09:15:12.938Z] /api/cars/60 PUT
+[2019-10-03T09:15:19.943Z] /api/cars/60 PUT
+[2019-10-03T10:14:05.334Z] /api/cars/60 PUT info
+[2019-10-03T10:17:06.813Z] /api/cars GET info
+[2019-10-03T10:18:00.772Z] /api/cars GET info
+[2019-10-03T10:18:00.784Z] relation "cardetail" does not exist error
+[2019-10-03T10:19:34.884Z] /api/cars GET info
+[2019-10-03T10:26:46.842Z] connect ECONNREFUSED 127.0.0.1:5439 error
+[2019-10-03T10:27:36.170Z] connect ECONNREFUSED 127.0.0.1:5439 error
+[2019-10-03T10:27:40.866Z] connect ECONNREFUSED 127.0.0.1:5439 error
+[2019-10-03T10:28:08.551Z] connect ECONNREFUSED 127.0.0.1:5439 error
+[2019-10-03T10:28:12.912Z] connect ECONNREFUSED 127.0.0.1:5439 error
+[2019-10-03T10:28:23.468Z] connect ECONNREFUSED 127.0.0.1:5439 error
+[2019-10-03T10:28:30.274Z] connect ECONNREFUSED 127.0.0.1:5439 error
+[2019-10-03T10:28:35.350Z] connect ECONNREFUSED 127.0.0.1:5439 error
+[2019-10-03T10:28:36.422Z] connect ECONNREFUSED 127.0.0.1:5439 error
+[2019-10-03T10:29:05.101Z] connect ECONNREFUSED 127.0.0.1:5435 error
+[2019-10-03T10:29:26.859Z] connect ECONNREFUSED 127.0.0.1:5435 error
+[2019-10-03T10:29:37.536Z] /api/cars GET info
+[2019-10-03T10:48:45.752Z] /api/cars GET info
+[2019-10-03T10:50:39.204Z] /api/cars GET info
+[2019-10-03T10:58:36.260Z] duplicate key value violates unique constraint "pg_type_typname_nsp_index" error
+[2019-10-03T11:02:04.511Z] /api/cars GET info
+[2019-10-03T11:04:14.180Z] /api/cars GET info
+[2019-10-03T11:04:14.963Z] /favicon.ico GET info
+[2019-10-03T11:12:34.238Z] expected password response, got message type 0 error
+[2019-10-03T11:12:45.472Z] write EPIPE error
+[2019-10-03T11:12:52.862Z] write EPIPE error
+[2019-10-03T11:13:00.281Z] expected password response, got message type 0 error
+[2019-10-03T11:29:23.352Z] Client has already been connected. You cannot reuse a client. error
+[2019-10-03T11:29:31.213Z] Client has already been connected. You cannot reuse a client. error
+[2019-10-03T11:29:36.419Z] Client has already been connected. You cannot reuse a client. error
+[2019-10-03T11:30:43.428Z] /api/cars GET info
+[2019-10-03T11:31:36.298Z] /api/cars GET info
+[2019-10-03T11:32:03.649Z] /api/cars GET info
+[2019-10-03T11:32:59.616Z] /api/cars GET info
+[2019-10-03T11:34:02.798Z] /api/cars GET info
+[2019-10-03T11:34:02.799Z] /api/cars GET info
+[2019-10-03T11:34:47.906Z] /api/cars GET info
+[2019-10-03T11:34:52.015Z] /api/cars GET info
+[2019-10-03T11:36:56.116Z] /api/cars GET info
+[2019-10-03T11:39:54.476Z] /api/cars GET info
+[2019-10-03T11:40:29.180Z] /api/cars GET info
+[2019-10-03T11:41:02.069Z] /api/cars GET info
+[2019-10-03T11:41:32.615Z] /api/cars GET info
+[2019-10-03T11:41:50.758Z] /api/cars GET info
+[2019-10-03T11:42:56.806Z] /api/cars GET info
+[2019-10-03T11:43:57.545Z] /api/cars GET info
+[2019-10-03T11:45:00.465Z] /api/cars GET info
+[2019-10-03T11:45:08.995Z] /api/cars GET info
+[2019-10-03T11:45:17.055Z] /api/cars GET info
+[2019-10-03T11:46:43.852Z] /api/cars GET info
+[2019-10-03T11:46:50.091Z] /api/cars GET info
+[2019-10-03T11:47:09.006Z] /api/cars GET info
+[2019-10-03T11:47:28.096Z] /api/cars GET info
+[2019-10-03T11:47:33.105Z] /api/cars GET info
+[2019-10-03T11:48:16.968Z] /api/cars GET info
+[2019-10-03T11:48:31.350Z] /api/cars GET info
+[2019-10-03T11:48:53.153Z] /api/cars GET info
+[2019-10-03T11:49:21.978Z] /api/cars GET info
+[2019-10-03T11:49:36.336Z] /api/cars GET info
+[2019-10-03T11:50:46.723Z] /api/cars GET info
+[2019-10-03T11:50:50.719Z] /api/cars GET info
+[2019-10-03T11:50:58.127Z] /api/cars GET info
+[2019-10-03T11:51:22.002Z] /api/cars GET info
+[2019-10-03T11:51:36.910Z] /api/cars GET info
+[2019-10-03T11:51:54.099Z] /api/cars GET info
+[2019-10-03T11:51:54.132Z] /api/cars GET info
+[2019-10-03T11:51:54.635Z] /api/cars GET info
+[2019-10-03T11:52:16.861Z] /api/cars GET info
+[2019-10-03T11:52:50.683Z] /api/cars GET info
+[2019-10-03T11:54:19.439Z] /api/cars GET info
+[2019-10-03T11:54:20.027Z] /api/cars GET info
+[2019-10-03T11:54:21.297Z] /api/cars GET info
+[2019-10-03T11:54:21.386Z] /api/cars GET info
+[2019-10-03T11:54:23.496Z] /api/cars GET info
+[2019-10-03T11:54:42.270Z] /api/cars GET info
+[2019-10-03T11:54:49.980Z] /api/cars GET info
+[2019-10-03T12:08:46.963Z] /api/cars GET info
+[2019-10-03T12:11:01.666Z] /api/cars GET info
+[2019-10-03T12:11:04.325Z] /api/cars GET info
+[2019-10-03T12:11:09.096Z] /api/cars GET info
+[2019-10-03T12:11:40.344Z] /api/cars/60 PUT info
+[2019-10-03T12:13:03.067Z] /api/cars GET info
+[2019-10-03T12:13:25.499Z] /api/cars GET info
+[2019-10-03T12:13:44.244Z] /api/cars GET info
+[2019-10-03T12:13:45.162Z] /favicon.ico GET info
+[2019-10-03T12:39:10.300Z] /api/cars/3 GET info
+[2019-10-03T12:41:45.581Z] /api/cars POST info
+[2019-10-03T12:41:45.931Z] could not determine data type of parameter $1 error
+[2019-10-03T12:42:14.961Z] /api/cars POST info
+[2019-10-03T12:44:13.624Z] /api/cars POST info
+[2019-10-03T13:08:33.811Z] /api/cars POST info
+[2019-10-03T13:08:44.128Z] /api/cars/60 PUT info
+[2019-10-03T13:10:25.794Z] /api/cars/60 PUT info
+[2019-10-03T13:10:33.362Z] /api/cars/60 PUT info
+[2019-10-03T14:41:39.412Z] /api/cars/60 DELETE info
+[2019-10-03T17:13:04.743Z] Client has already been connected. You cannot reuse a client. error
+[2019-10-03T18:04:26.817Z] /api/users/ POST info
+[2019-10-03T18:04:27.060Z] userdetails.createNewCar is not a function error
+[2019-10-03T18:04:56.135Z] /api/users/ POST info
+[2019-10-03T18:04:56.192Z] userdetails.createNewUser is not a function error
+[2019-10-03T18:06:01.824Z] /api/users/ POST info
+[2019-10-03T18:06:01.872Z] userdetails.createNewUser is not a function error
+[2019-10-03T18:06:50.526Z] /api/users/ POST info
+[2019-10-03T18:06:50.579Z] userdetails.createNewUser is not a function error
+[2019-10-03T18:09:12.531Z] /api/users/ POST info
+[2019-10-03T18:09:12.744Z] userdetails.createNewUser is not a function error
+[2019-10-03T18:10:38.827Z] /api/users/ POST info
+[2019-10-03T18:13:28.565Z] /api/users/signup POST info
+[2019-10-03T18:13:28.847Z] duplicate key value violates unique constraint "userdetails_email_key" error
+[2019-10-03T18:13:49.913Z] /api/users/signup POST info
+[2019-10-04T04:45:34.719Z] /api/users/signup POST info
+[2019-10-04T04:45:35.363Z] duplicate key value violates unique constraint "userdetails_email_key" error
+[2019-10-04T04:45:46.312Z] /api/users/signup POST info
+[2019-10-04T05:09:21.228Z] /api/users/signup POST info
+[2019-10-04T05:09:21.750Z] duplicate key value violates unique constraint "userdetails_email_key" error
+[2019-10-04T05:14:51.896Z] /api/users/signup POST info
+[2019-10-04T05:14:52.085Z] duplicate key value violates unique constraint "userdetails_email_key" error
+[2019-10-04T05:17:33.455Z] /api/users/signup POST info
+[2019-10-04T05:17:33.710Z] duplicate key value violates unique constraint "userdetails_email_key" error
+[2019-10-04T05:31:09.372Z] /api/users/signup POST info
+[2019-10-04T05:32:23.166Z] /api/users/signup POST info
+[2019-10-04T05:32:51.535Z] /api/users/signup POST info
+[2019-10-04T05:33:14.857Z] /api/users/signup POST info
+[2019-10-04T05:34:10.087Z] /api/users/signup POST info
+[2019-10-04T05:35:08.909Z] /api/users/signup POST info
+[2019-10-04T05:36:13.963Z] /api/users/signup POST info
+[2019-10-04T05:37:51.409Z] /api/users/signup POST info
+[2019-10-04T05:38:17.335Z] /api/users/signup POST info
+[2019-10-04T05:43:03.819Z] /api/users/signup POST info
+[2019-10-04T05:44:14.710Z] /api/users/signup POST info
+[2019-10-04T05:45:12.387Z] /api/users/signup POST info
+[2019-10-04T05:45:39.637Z] /api/users/signup POST info
+[2019-10-04T05:46:17.000Z] /api/users/signup POST info
+[2019-10-04T05:48:56.931Z] /api/users/signup POST info
+[2019-10-04T05:50:46.741Z] /api/users/signup POST info
+[2019-10-04T05:52:35.700Z] /api/users/signup POST info
+[2019-10-04T05:52:35.897Z] duplicate key value violates unique constraint "userdetails_email_key" error
+[2019-10-04T05:52:46.136Z] /api/users/signup POST info
+[2019-10-04T05:54:24.359Z] /api/users/signup POST info
+[2019-10-04T05:55:14.425Z] /api/users/signup POST info
+[2019-10-04T05:56:00.967Z] /api/users/signup POST info
+[2019-10-04T06:29:43.966Z] /api/users/login POST info
+[2019-10-04T06:30:34.865Z] /api/users/login POST info
+[2019-10-04T06:39:10.656Z] /api/users/login POST info
+[2019-10-04T06:39:54.728Z] /api/users/login POST info
+[2019-10-04T06:41:34.974Z] /api/users/login POST info
+[2019-10-04T06:42:10.272Z] /api/users/login POST info
+[2019-10-04T06:42:33.036Z] /api/users/login POST info
+[2019-10-04T06:42:52.079Z] /api/users/login POST info
+[2019-10-04T06:44:02.996Z] /api/users/login POST info
+[2019-10-04T06:45:02.781Z] /api/users/signup POST info
+[2019-10-04T06:45:38.701Z] /api/users/login POST info
+[2019-10-04T06:46:10.188Z] /api/users/login POST info
+[2019-10-04T07:05:42.636Z] /api/users/login POST info
+[2019-10-04T07:06:02.132Z] /api/users/login POST info
+[2019-10-04T08:02:28.563Z] /api/cars POST info
+[2019-10-04T08:04:03.977Z] /api/cars POST info
+[2019-10-04T08:05:23.236Z] /api/cars POST info
+[2019-10-04T08:15:00.858Z] /api/cars POST info
+[2019-10-04T08:16:33.282Z] /api/cars POST info
+[2019-10-04T08:16:56.523Z] /api/cars POST info
+[2019-10-04T08:17:13.416Z] /api/cars POST info
+[2019-10-04T08:19:23.046Z] /api/cars POST info
+[2019-10-04T08:26:23.824Z] /api/cars POST info
+[2019-10-04T08:27:41.085Z] /api/cars POST info
+[2019-10-04T08:28:33.614Z] /api/cars POST info
+[2019-10-04T08:29:14.358Z] /api/cars POST info
+[2019-10-04T08:34:16.777Z] /api/cars POST info
+[2019-10-04T08:40:18.724Z] /api/cars POST info
+[2019-10-04T08:40:26.136Z] /api/cars POST info
+[2019-10-04T08:44:56.719Z] /api/cars POST info
+[2019-10-04T08:45:40.538Z] /api/cars POST info
+[2019-10-04T08:45:40.574Z] jwt expired error
+[2019-10-04T08:46:54.524Z] /api/users/login POST info
+[2019-10-04T08:47:30.172Z] /api/cars POST info
+[2019-10-04T08:47:35.043Z] /api/cars POST info
+[2019-10-04T08:47:38.172Z] /api/cars POST info
+[2019-10-04T08:48:12.757Z] /api/cars POST info
+[2019-10-04T08:48:18.415Z] /api/cars POST info
+[2019-10-04T08:48:58.476Z] /api/cars POST info
+[2019-10-04T08:49:01.915Z] /api/cars POST info
+[2019-10-04T08:53:05.402Z] /api/cars/60 DELETE info
+[2019-10-04T08:55:09.553Z] /api/customers/498 GET info
+[2019-10-04T08:55:13.521Z] /api/customers/4 GET info
+[2019-10-04T08:55:48.630Z] /api/customers/4 GET info
+[2019-10-04T08:56:09.816Z] /api/customers/4 GET info
+[2019-10-04T08:57:26.284Z] /api/customers/4 GET info
+[2019-10-04T08:59:39.574Z] /api/customers/4 GET info
+[2019-10-04T09:00:07.141Z] /api/customers/4 GET info
+[2019-10-04T09:00:32.751Z] /api/customers/4 GET info
+[2019-10-04T09:09:36.973Z] /api/customers POST info
+[2019-10-04T09:09:37.142Z] customerdetails.createNewCustomer(...).then is not a function error
+[2019-10-04T09:10:36.150Z] /api/customers POST info
+[2019-10-04T09:10:36.209Z] customerdetails.createNewCustomer(...).then is not a function error
+[2019-10-04T09:13:10.127Z] /api/customers POST info
+[2019-10-04T09:14:33.594Z] /api/customers/501 DELETE info
+[2019-10-04T09:20:54.094Z] /api/customers/500 PUT info
+[2019-10-04T09:21:06.483Z] /api/customers/500 PUT info
+[2019-10-04T09:28:39.255Z] /api/cars/60 PUT info
+[2019-10-04T09:28:45.257Z] /api/cars/500 PUT info
+[2019-10-04T09:28:49.448Z] /api/cars/499 PUT info
+[2019-10-04T09:28:57.916Z] /api/cars/44 PUT info
+[2019-10-04T09:29:06.574Z] /api/cars/44 PUT info
+[2019-10-04T09:29:19.497Z] /api/cars/44 PUT info
+[2019-10-04T09:29:22.364Z] /api/cars/44 PUT info
+[2019-10-04T09:29:55.649Z] /api/cars/44 DELETE info
+[2019-10-04T09:30:03.668Z] /api/cars/43 DELETE info
+[2019-10-04T09:30:07.676Z] /api/cars/43 DELETE info
+[2019-10-04T09:30:15.488Z] /api/cars/42 DELETE info
+[2019-10-04T09:32:55.253Z] /api/customers/489 DELETE info
+[2019-10-04T09:33:00.714Z] /api/customers/489 DELETE info
+[2019-10-04T09:33:05.222Z] /api/customers/489 DELETE info
+[2019-10-04T09:33:41.664Z] /api/customers POST info
+[2019-10-04T09:33:41.918Z] insert or update on table "customerdetails" violates foreign key constraint "customerdetails_carid_fkey" error
+[2019-10-04T09:33:55.524Z] /api/customers POST info
+[2019-10-04T09:34:04.351Z] /api/customers POST info
+[2019-10-04T09:34:07.576Z] /api/customers POST info
+[2019-10-04T09:34:07.581Z] duplicate key value violates unique constraint "customerdetails_email_phonenum_key" error
+[2019-10-04T09:34:46.278Z] /api/customers/500 PUT info
+[2019-10-04T09:34:58.435Z] /api/customers/500 PUT info
+[2019-10-04T09:35:01.054Z] /api/customers/500 PUT info
+[2019-10-04T09:52:45.567Z] /api/customers/487 DELETE info
+[2019-10-04T09:53:00.221Z] /api/customers/487 DELETE info
+[2019-10-04T09:53:15.077Z] /api/users/login POST info
+[2019-10-04T09:53:32.187Z] /api/customers/487 DELETE info
+[2019-10-04T09:57:00.716Z] /api/cars/70 PUT info
+[2019-10-04T09:57:13.523Z] /api/cars/70 PUT info
+[2019-10-04T10:08:04.248Z] /api/users/login POST info
+[2019-10-04T10:08:27.093Z] /api/cars POST info
+[2019-10-04T10:08:39.124Z] /api/cars/70 PUT info
+[2019-10-04T10:08:47.377Z] /api/cars/42 DELETE info
+[2019-10-04T10:09:52.020Z] /api/customers/500 PUT info
+[2019-10-04T10:09:58.519Z] /api/customers/500 PUT info
+[2019-10-04T10:10:28.701Z] /api/customers/487 DELETE info
+[2019-10-04T10:10:33.985Z] /api/customers/497 DELETE info
+[2019-10-04T11:02:45.857Z] /api/customers POST info
+[2019-10-04T11:02:46.883Z] duplicate key value violates unique constraint "customerdetails_email_phonenum_key" error
+[2019-10-04T11:02:55.486Z] /api/customers/490 DELETE info
+[2019-10-04T11:04:19.028Z] /api/customers POST info
+[2019-10-04T12:04:46.538Z] /api/users/login POST info
+[2019-10-04T12:05:07.575Z] /api/customers POST info
+[2019-10-04T12:05:53.061Z] /api/customers POST info
+[2019-10-04T12:06:00.037Z] /api/customers POST info
+[2019-10-04T12:06:00.099Z] duplicate key value violates unique constraint "customerdetails_email_phonenum_key" error
+[2019-10-04T12:06:11.291Z] /api/customers POST info
+[2019-10-04T12:06:41.050Z] /api/customers POST info
+[2019-10-04T12:07:22.660Z] /api/customers POST info
+[2019-10-04T12:07:42.217Z] /api/customers POST info
+[2019-10-04T12:07:56.353Z] /api/customers POST info
+[2019-10-04T12:07:59.597Z] /api/customers POST info
+[2019-10-04T12:08:12.587Z] /api/customers POST info
+[2019-10-04T12:08:17.058Z] /api/customers POST info
+[2019-10-04T12:08:18.947Z] /api/customers POST info
+[2019-10-04T12:09:33.397Z] /api/customers POST info
+[2019-10-04T12:09:44.594Z] /api/customers POST info
+[2019-10-04T12:10:19.740Z] /api/customers POST info
+[2019-10-04T12:11:25.315Z] /api/customers POST info
+[2019-10-04T12:11:32.459Z] /api/customers POST info
+[2019-10-04T12:11:32.464Z] duplicate key value violates unique constraint "customerdetails_email_phonenum_key" error
+[2019-10-04T12:11:41.614Z] /api/customers POST info
